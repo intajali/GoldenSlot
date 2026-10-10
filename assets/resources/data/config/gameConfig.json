@@ -1,0 +1,16 @@
+{
+  "gameConfig": {
+    "gameplayDuration": 1000,
+    "reelSpinSpeed": 4000,
+    "maxSpinSpeed": 6000,
+    "stopDelayMs": 150,
+    "reelCount": 5,
+    "symbolRowsCount": 7,
+    "visibleRows": 3,
+    "stripLength": 35,
+    "scatterSymbol": "SCAT",
+    "wildSymbol": "WILD",
+    "boundBonusSymbol": "BONUS",
+    "minScatterForFreeSpins": 3
+  }
+}

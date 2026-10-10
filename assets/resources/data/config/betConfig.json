@@ -1,0 +1,26 @@
+{
+  "betConfig": {
+    "betAmounts": [
+      1,
+      2,
+      5,
+      10,
+      20,
+      50,
+      100,
+      200
+    ],
+    "multipliers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      10
+    ],
+    "defaultBetIndex": 0,
+    "defaultMultiplierIndex": 0,
+    "paylines": 15,
+    "payPerLine": 8
+  }
+}

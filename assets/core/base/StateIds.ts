@@ -1,0 +1,12 @@
+// StateIds.ts
+export enum StateId {
+    LOAD = 'LOAD',
+    IDLE = 'IDLE',
+    SPINNING = 'SPINNING',
+    WIN = 'WIN',
+    EVALUATE = 'EVALUATE',
+    WIN_PRESENTATION = 'WIN_PRESENTATION',
+    AUTO_SPIN = 'AUTO_SPIN',
+    FREE_SPIN = 'FREE_SPIN',
+    FREE_SPIN_INTRO = 'FREE_SPIN_INTRO',
+}

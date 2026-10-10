@@ -1,0 +1,904 @@
+{
+  "reels": [
+    {
+      "index": 0,
+      "strip": [
+        {
+          "id": "WILD1",
+          "weight": 1,
+          "isHighPay": true
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N6",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H5",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L6",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L2",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": true
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": true
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L5",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H3",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L5",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "L1",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "strip": [
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L1",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N6",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H2",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "H4",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H1",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L5",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "L5",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L4",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "H6",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "H1",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "BONUS1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N6",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "strip": [
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "H1",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H7",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H4",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H4",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "L6",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L1",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "L6",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L2",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H1",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "L2",
+          "weight": 10,
+          "isHighPay": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "strip": [
+        {
+          "id": "H1",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "BONUS1",
+          "weight": 1,
+          "isHighPay": true
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H6",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H6",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "L6",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L1",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "L4",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H6",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N6",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N6",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H4",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H2",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N2",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L7",
+          "weight": 10,
+          "isHighPay": false
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "strip": [
+        {
+          "id": "L6",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "L2",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L4",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H5",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N7",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N9",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L5",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N4",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L2",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N11",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L6",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "BONUS1",
+          "weight": 1,
+          "isHighPay": true
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N6",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "H4",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N5",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N10",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "H4",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 1,
+          "isHighPay": true
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "JACKPOT",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "H6",
+          "weight": 5,
+          "isHighPay": true
+        },
+        {
+          "id": "N1",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "N8",
+          "weight": 20,
+          "isHighPay": false
+        },
+        {
+          "id": "L3",
+          "weight": 10,
+          "isHighPay": false
+        },
+        {
+          "id": "N3",
+          "weight": 20,
+          "isHighPay": false
+        }
+      ]
+    }
+  ]
+}
